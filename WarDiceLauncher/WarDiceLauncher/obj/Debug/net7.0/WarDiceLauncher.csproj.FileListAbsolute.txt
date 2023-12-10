@@ -1,0 +1,15 @@
+D:\PROJETOS\MergeFileMDB\WarDiceLauncher\WarDiceLauncher\bin\Debug\net7.0\WarDiceLauncher.exe
+D:\PROJETOS\MergeFileMDB\WarDiceLauncher\WarDiceLauncher\bin\Debug\net7.0\WarDiceLauncher.deps.json
+D:\PROJETOS\MergeFileMDB\WarDiceLauncher\WarDiceLauncher\bin\Debug\net7.0\WarDiceLauncher.runtimeconfig.json
+D:\PROJETOS\MergeFileMDB\WarDiceLauncher\WarDiceLauncher\bin\Debug\net7.0\WarDiceLauncher.dll
+D:\PROJETOS\MergeFileMDB\WarDiceLauncher\WarDiceLauncher\bin\Debug\net7.0\WarDiceLauncher.pdb
+D:\PROJETOS\MergeFileMDB\WarDiceLauncher\WarDiceLauncher\obj\Debug\net7.0\WarDiceLauncher.csproj.AssemblyReference.cache
+D:\PROJETOS\MergeFileMDB\WarDiceLauncher\WarDiceLauncher\obj\Debug\net7.0\WarDiceLauncher.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETOS\MergeFileMDB\WarDiceLauncher\WarDiceLauncher\obj\Debug\net7.0\WarDiceLauncher.AssemblyInfoInputs.cache
+D:\PROJETOS\MergeFileMDB\WarDiceLauncher\WarDiceLauncher\obj\Debug\net7.0\WarDiceLauncher.AssemblyInfo.cs
+D:\PROJETOS\MergeFileMDB\WarDiceLauncher\WarDiceLauncher\obj\Debug\net7.0\WarDiceLauncher.csproj.CoreCompileInputs.cache
+D:\PROJETOS\MergeFileMDB\WarDiceLauncher\WarDiceLauncher\obj\Debug\net7.0\WarDiceLauncher.dll
+D:\PROJETOS\MergeFileMDB\WarDiceLauncher\WarDiceLauncher\obj\Debug\net7.0\refint\WarDiceLauncher.dll
+D:\PROJETOS\MergeFileMDB\WarDiceLauncher\WarDiceLauncher\obj\Debug\net7.0\WarDiceLauncher.pdb
+D:\PROJETOS\MergeFileMDB\WarDiceLauncher\WarDiceLauncher\obj\Debug\net7.0\WarDiceLauncher.genruntimeconfig.cache
+D:\PROJETOS\MergeFileMDB\WarDiceLauncher\WarDiceLauncher\obj\Debug\net7.0\ref\WarDiceLauncher.dll
